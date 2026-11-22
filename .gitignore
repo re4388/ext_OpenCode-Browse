@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+repo/node_modules/
+repo/dist/
+repo/cli/node_modules/
+repo/cli/dist/
